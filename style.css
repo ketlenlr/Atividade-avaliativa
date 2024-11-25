@@ -1,0 +1,14 @@
+body{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    background-color: #B68C86;
+    font-family: arial;
+    color: white;
+
+}
+.span{
+    color:#e6b120;
+}
